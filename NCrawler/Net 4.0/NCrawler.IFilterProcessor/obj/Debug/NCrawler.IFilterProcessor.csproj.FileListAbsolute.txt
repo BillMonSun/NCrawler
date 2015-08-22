@@ -1,0 +1,10 @@
+C:\Users\borschev_m\Desktop\NCrawler\Net 4.0\NCrawler.IFilterProcessor\bin\Debug\NCrawler.IFilterProcessor.dll
+C:\Users\borschev_m\Desktop\NCrawler\Net 4.0\NCrawler.IFilterProcessor\bin\Debug\NCrawler.IFilterProcessor.pdb
+C:\Users\borschev_m\Desktop\NCrawler\Net 4.0\NCrawler.IFilterProcessor\bin\Debug\EPocalipse.IFilter.dll
+C:\Users\borschev_m\Desktop\NCrawler\Net 4.0\NCrawler.IFilterProcessor\bin\Debug\NCrawler.dll
+C:\Users\borschev_m\Desktop\NCrawler\Net 4.0\NCrawler.IFilterProcessor\bin\Debug\Autofac.dll
+C:\Users\borschev_m\Desktop\NCrawler\Net 4.0\NCrawler.IFilterProcessor\bin\Debug\NCrawler.pdb
+C:\Users\borschev_m\Desktop\NCrawler\Net 4.0\NCrawler.IFilterProcessor\bin\Debug\EPocalipse.IFilter.pdb
+C:\Users\borschev_m\Desktop\NCrawler\Net 4.0\NCrawler.IFilterProcessor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\borschev_m\Desktop\NCrawler\Net 4.0\NCrawler.IFilterProcessor\obj\Debug\NCrawler.IFilterProcessor.dll
+C:\Users\borschev_m\Desktop\NCrawler\Net 4.0\NCrawler.IFilterProcessor\obj\Debug\NCrawler.IFilterProcessor.pdb

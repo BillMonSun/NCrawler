@@ -1,0 +1,11 @@
+C:\Users\borschev_m\Desktop\NCrawler\Net 4.0\NCrawler.SQLite\bin\Debug\NCrawler.db
+C:\Users\borschev_m\Desktop\NCrawler\Net 4.0\NCrawler.SQLite\bin\Debug\NCrawler.SQLite.dll.config
+C:\Users\borschev_m\Desktop\NCrawler\Net 4.0\NCrawler.SQLite\bin\Debug\NCrawler.SQLite.dll
+C:\Users\borschev_m\Desktop\NCrawler\Net 4.0\NCrawler.SQLite\bin\Debug\NCrawler.SQLite.pdb
+C:\Users\borschev_m\Desktop\NCrawler\Net 4.0\NCrawler.SQLite\bin\Debug\Autofac.dll
+C:\Users\borschev_m\Desktop\NCrawler\Net 4.0\NCrawler.SQLite\bin\Debug\NCrawler.dll
+C:\Users\borschev_m\Desktop\NCrawler\Net 4.0\NCrawler.SQLite\bin\Debug\System.Data.SQLite.dll
+C:\Users\borschev_m\Desktop\NCrawler\Net 4.0\NCrawler.SQLite\bin\Debug\NCrawler.pdb
+C:\Users\borschev_m\Desktop\NCrawler\Net 4.0\NCrawler.SQLite\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\borschev_m\Desktop\NCrawler\Net 4.0\NCrawler.SQLite\obj\x86\Debug\NCrawler.SQLite.dll
+C:\Users\borschev_m\Desktop\NCrawler\Net 4.0\NCrawler.SQLite\obj\x86\Debug\NCrawler.SQLite.pdb

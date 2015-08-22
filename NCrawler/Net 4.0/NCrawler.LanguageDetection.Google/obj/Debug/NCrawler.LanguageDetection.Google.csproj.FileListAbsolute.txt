@@ -1,0 +1,7 @@
+C:\Users\borschev_m\Desktop\NCrawler\Net 4.0\NCrawler.LanguageDetection.Google\bin\Debug\NCrawler.LanguageDetection.Google.dll
+C:\Users\borschev_m\Desktop\NCrawler\Net 4.0\NCrawler.LanguageDetection.Google\bin\Debug\NCrawler.LanguageDetection.Google.pdb
+C:\Users\borschev_m\Desktop\NCrawler\Net 4.0\NCrawler.LanguageDetection.Google\bin\Debug\NCrawler.dll
+C:\Users\borschev_m\Desktop\NCrawler\Net 4.0\NCrawler.LanguageDetection.Google\bin\Debug\NCrawler.pdb
+C:\Users\borschev_m\Desktop\NCrawler\Net 4.0\NCrawler.LanguageDetection.Google\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\borschev_m\Desktop\NCrawler\Net 4.0\NCrawler.LanguageDetection.Google\obj\Debug\NCrawler.LanguageDetection.Google.dll
+C:\Users\borschev_m\Desktop\NCrawler\Net 4.0\NCrawler.LanguageDetection.Google\obj\Debug\NCrawler.LanguageDetection.Google.pdb

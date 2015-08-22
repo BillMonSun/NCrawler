@@ -1,0 +1,8 @@
+C:\Users\borschev_m\Desktop\NCrawler\Net 4.0\NCrawler.DbServices.Db\sql\debug\NCrawler.DbServices.Db_Script.PreDeployment.sql
+C:\Users\borschev_m\Desktop\NCrawler\Net 4.0\NCrawler.DbServices.Db\sql\debug\NCrawler.DbServices.Db_Script.PostDeployment.sql
+C:\Users\borschev_m\Desktop\NCrawler\Net 4.0\NCrawler.DbServices.Db\sql\debug\NCrawler.DbServices.Db_Database.sqlsettings
+C:\Users\borschev_m\Desktop\NCrawler\Net 4.0\NCrawler.DbServices.Db\sql\debug\NCrawler.DbServices.Db_Database.sqldeployment
+C:\Users\borschev_m\Desktop\NCrawler\Net 4.0\NCrawler.DbServices.Db\sql\debug\NCrawler.DbServices.Db_Database.sqlcmdvars
+C:\Users\borschev_m\Desktop\NCrawler\Net 4.0\NCrawler.DbServices.Db\sql\debug\NCrawler.DbServices.Db.deploymanifest
+C:\Users\borschev_m\Desktop\NCrawler\Net 4.0\NCrawler.DbServices.Db\sql\debug\NCrawler.DbServices.Db.dbschema
+C:\Users\borschev_m\Desktop\NCrawler\Net 4.0\NCrawler.DbServices.Db\obj\Debug\NCrawler.DbServices.Db.dbschema

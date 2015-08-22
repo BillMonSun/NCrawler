@@ -1,0 +1,8 @@
+<Modules>
+  <Module PersistentId="5E4DF149-F650-4152-8410-586FB9CCF644" ModuleId="NCrawler" />
+  <Module PersistentId="3FB98863-77C5-4459-B9BF-2AF1C904323C" ModuleId="NCrawler.Demo" />
+  <Module PersistentId="A8ADB9E8-359E-4CFB-97D7-59E1E705DE04" ModuleId="NCrawler.HtmlProcessor" />
+  <Module PersistentId="1CC6DC28-0B0B-445D-8AE3-07F9823A9036" ModuleId="NCrawler.iTextSharpPdfProcessor" />
+  <Module PersistentId="0E707ADD-8F93-4E65-BAE7-534D4C844060" ModuleId="NCrawler.LanguageDetection.Google" />
+  <Module PersistentId="8DBF9F2F-A8BD-45B1-8750-C7CB63611425" ModuleId="NCrawler.MP3Processor" />
+</Modules>

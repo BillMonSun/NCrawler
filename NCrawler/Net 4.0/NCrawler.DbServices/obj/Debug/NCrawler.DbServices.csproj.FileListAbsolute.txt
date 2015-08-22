@@ -1,0 +1,11 @@
+C:\Users\borschev_m\Desktop\NCrawler\Net 4.0\NCrawler.DbServices\bin\Debug\NCrawler.mdf
+C:\Users\borschev_m\Desktop\NCrawler\Net 4.0\NCrawler.DbServices\bin\Debug\NCrawler_log.ldf
+C:\Users\borschev_m\Desktop\NCrawler\Net 4.0\NCrawler.DbServices\bin\Debug\NCrawler.DbServices.dll.config
+C:\Users\borschev_m\Desktop\NCrawler\Net 4.0\NCrawler.DbServices\bin\Debug\NCrawler.DbServices.dll
+C:\Users\borschev_m\Desktop\NCrawler\Net 4.0\NCrawler.DbServices\bin\Debug\NCrawler.DbServices.pdb
+C:\Users\borschev_m\Desktop\NCrawler\Net 4.0\NCrawler.DbServices\bin\Debug\Autofac.dll
+C:\Users\borschev_m\Desktop\NCrawler\Net 4.0\NCrawler.DbServices\bin\Debug\NCrawler.dll
+C:\Users\borschev_m\Desktop\NCrawler\Net 4.0\NCrawler.DbServices\bin\Debug\NCrawler.pdb
+C:\Users\borschev_m\Desktop\NCrawler\Net 4.0\NCrawler.DbServices\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\borschev_m\Desktop\NCrawler\Net 4.0\NCrawler.DbServices\obj\Debug\NCrawler.DbServices.dll
+C:\Users\borschev_m\Desktop\NCrawler\Net 4.0\NCrawler.DbServices\obj\Debug\NCrawler.DbServices.pdb
